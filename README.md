@@ -1,40 +1,18 @@
-### Hi there, I'm Jonathan Ngien 👋
-
-<a href="https://www.linkedin.com/in/jonathan-ngien/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:jonathan.ngien.zy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jonathan.ngien.zy@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
+# 💫 About Me:
+💻 What I'm Currently Working On<br><br>I am currently a Machine Learning Software Engineer Intern at Cynapse, where I'm spearheading the development of a high-performance ML pipeline for large-scale vehicle object detection.<br><br> 🚀 My Projects<br><br>Wedding Planner App | *Software Engineer*<br><br>StyleSwipe | *Machine Learning Engineer*<br><br>Traffic Police Driving Simulator Bot | *Software Developer*
 
 
-I'm currently a student at the National University of Singapore, pursuing a BSc in Computing, Computer Science, with a Minor in Quantitative Finance, expected to graduate in May 2027. 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanngien) 
 
-I am passionate about leveraging technology to solve complex problems and optimize processes by creating high-performance, scalable software. I enjoy collaborating with others who are as committed to continuous learning and applying it to build maintainable and well-architected applications.
-
-I have practical experience in machine learning (ML) and full-stack development in Agile teams. 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=plastic&logo=codecov&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jonzyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jonzyyyy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonzyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=jonzyyyy&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### 💻 What I'm Currently Working On
-
-I am currently a **Machine Learning Software Engineer Intern at Cynapse**, where I'm spearheading the development of a high-performance ML pipeline for large-scale vehicle object detection.
-
----
-
-### 🚀 My Projects
-
-#### Wedding Planner App | *Software Engineer*
-
-#### StyleSwipe | *Machine Learning Engineer*
-
-#### Traffic Police Driving Simulator Bot | *Software Developer*
-
----
-
-### 🛠️ My Tech Stack
-
-* **Languages:** Java, Python, SQL, C, JavaScript, MS Excel
-* **Frameworks:** Selenium, TensorFlow, YOLO by Ultralytics
-* **Tools:** Git, Vim, Amazon Web Services, Google Cloud Platform, Docker, PostgreSQL, Visual Studio Code
-* **Libraries:** Junit, NumPy, Matplotlib
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
