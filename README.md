@@ -1,6 +1,5 @@
 # 💫 About Me:
-💻 What I'm Currently Working On<br><br>I am currently a Machine Learning Software Engineer Intern at Cynapse, where I'm spearheading the development of a high-performance ML pipeline for large-scale vehicle object detection.<br><br> 🚀 My Projects<br><br>Wedding Planner App | *Software Engineer*<br><br>StyleSwipe | *Machine Learning Engineer*<br><br>Traffic Police Driving Simulator Bot | *Software Developer*
-
+💻 What I'm Currently Working On<br><br>I am currently developing a comprehensive algorithmic trading and backtesting pipeline in Python. This project focuses on creating a modular framework to design, test, and analyze multi-factor quantitative equity strategies against historical market data.<br><br> 🚀  My Projects<br><br>Algorithmic Trading & Backtesting Pipeline | Quantitative Researcher<br><br>Wedding Planner App | Software Engineer<br><br>StyleSwipe | Machine Learning Engineer<br><br>Traffic Police Driving Simulator Bot | Software Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanngien) 
